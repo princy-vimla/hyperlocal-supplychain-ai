@@ -1,0 +1,3 @@
+created file 
+git config --global user.name "princy-vimla"
+git config --global user.email "princyvimla@gmail.com"
